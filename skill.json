@@ -1,0 +1,13 @@
+{
+  "name": "genpark-hopcroft-karp-bipartite-matching-skill",
+  "version": "1.0.0",
+  "description": "Hopcroft-Karp algorithm solving maximum cardinality bipartite matching in optimal O(E sqrt(V)) time using alternating BFS/DFS augmenting paths.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hopcroft-karp",
+    "bipartite-matching",
+    "graph-theory",
+    "combinatorial-optimization"
+  ]
+}
